@@ -1,0 +1,25 @@
+"Personnage" "Dans.AGOT" "Dans.ACOK" "Dans.ASOS" "Dans.AFFC" "Dans.ADWD" "Chapitres.au.total"
+"Eddard" 15 0 0 0 0 15
+"Catelyn" 11 7 7 0 0 25
+"Sansa" 6 8 7 3 0 24
+"Arya" 5 10 13 3 2 33
+"Bran" 7 7 4 0 3 21
+"Jon" 9 8 12 0 13 42
+"Daenerys" 10 5 6 0 10 31
+"Tyrion" 9 15 11 0 12 47
+"Theon" 0 6 0 0 7 13
+"Davos" 0 3 6 0 4 13
+"Samwell" 0 0 5 5 0 10
+"Jaime" 0 0 9 7 1 17
+"Cersei" 0 0 0 10 2 12
+"Brienne" 0 0 0 8 0 8
+"Areo" 0 0 0 1 1 2
+"Arys" 0 0 0 1 0 1
+"Arianne" 0 0 0 2 0 2
+"Asha" 0 0 0 1 3 4
+"Aeron" 0 0 0 2 0 2
+"Victarion" 0 0 0 2 2 4
+"Quentyn Martell" 0 0 0 0 4 4
+"Jon Connington" 0 0 0 0 2 2
+"Mélisandre" 0 0 0 0 1 1
+"Barristan Selmy" 0 0 0 0 4 4
